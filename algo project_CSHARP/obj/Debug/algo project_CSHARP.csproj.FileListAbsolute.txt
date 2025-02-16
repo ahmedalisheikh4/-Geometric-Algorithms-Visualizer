@@ -1,0 +1,10 @@
+C:\Users\HP\source\repos\algo project_CSHARP\bin\Debug\algo project_CSHARP.exe.config
+C:\Users\HP\source\repos\algo project_CSHARP\bin\Debug\algo project_CSHARP.exe
+C:\Users\HP\source\repos\algo project_CSHARP\bin\Debug\algo project_CSHARP.pdb
+C:\Users\HP\source\repos\algo project_CSHARP\obj\Debug\algo project_CSHARP.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\algo project_CSHARP\obj\Debug\algo_project_CSHARP.Form1.resources
+C:\Users\HP\source\repos\algo project_CSHARP\obj\Debug\algo_project_CSHARP.Properties.Resources.resources
+C:\Users\HP\source\repos\algo project_CSHARP\obj\Debug\algo project_CSHARP.csproj.GenerateResource.cache
+C:\Users\HP\source\repos\algo project_CSHARP\obj\Debug\algo project_CSHARP.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\algo project_CSHARP\obj\Debug\algo project_CSHARP.exe
+C:\Users\HP\source\repos\algo project_CSHARP\obj\Debug\algo project_CSHARP.pdb
